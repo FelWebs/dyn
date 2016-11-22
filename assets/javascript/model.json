@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "title": "Forside",
+        "content": "<p>Hej, og velkommen til verdens bedste ostebiks.</p>"
+    },
+    {
+        "id": 2,
+        "title": "Hvilke Oste Har Vi?",
+        "content": "<p>Vi har en række forskellige oste, heriblandt gedeost, hytteost, parmesanost, cheddarost, grana padana, trøffel ost og meget mere.</p>"
+    },
+    {
+        "id": 3,
+        "title": "Oste Historie",
+        "content": "<p>Her hos Brians Ostebiks, går vi meget op i at vores kunder kan læse om historien og processen bag hver enkelte ostetype</p>"
+    },
+    {
+        "id": 4,
+        "title": "Kontakt",
+        "content": "<form><input type='text' name='name'><button type='submit'>Send!</button></form>"
+    }
+]
